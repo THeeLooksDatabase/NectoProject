@@ -23,6 +23,6 @@ git init
 ```
 2. Clone o repositório
 ```
-git clone https://github.com/TheLooksDatabase/Julius.git
+git clone https://github.com/THeeLooksDatabase/NectoProject.git
 ```
 
