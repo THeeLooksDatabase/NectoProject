@@ -1,6 +1,6 @@
 # NectoProject
 
-<h1 align="left">Desafio</h1>
+<h1 align="left">Desafio:</h1>
 
 Coletar métricas periodicamente de um ou mais SGDBs (postgreSQL) remoto, plotar gráficos e alertas de espaço em disco do SGDB, por database, e outras métricas de funcionamento do banco dados que influenciem em sua manutenção periódica, funcionamento e disponibilidade. (qtd de queries, tempo de queries, e uso de índices)
 
