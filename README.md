@@ -25,7 +25,7 @@ Coletar métricas periodicamente de um ou mais SGDBs (postgreSQL) remoto, plotar
 
 <h1 align="left"Tecnologias utilizadas:</h1>
 
-<h1 align="left"DEV TEAM:</h1>
+<h1 align="left">DEV TEAM</h1>
  
 
 - Zaion Felippe Gomes Arruda (Scrum Master) - [LinkedIn](https://www.linkedin.com/in/zaion-gomes-b17657214/), [GitHub](https://github.com/ZaionKun)
