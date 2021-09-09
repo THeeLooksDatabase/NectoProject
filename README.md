@@ -25,6 +25,10 @@ Coletar métricas periodicamente de um ou mais SGDBs (postgreSQL) remoto, plotar
 
 <h1 align="left"Tecnologias utilizadas:</h1>
 
+<h1 align="left">Backlog Total em cards</h1>
+<p align="center">
+  <img src="https://github.com/THeeLooksDatabase/NectoProject/blob/main/docs/backlog.png">
+
 <h1 align="left">DEV TEAM</h1>
  
 
