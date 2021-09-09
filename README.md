@@ -12,3 +12,5 @@
 
 - Permitir uma análise válida e realista.
 - Facilitar o desenvolvimento de planejamentos estratégicos eficientes.
+
+<h1 align="left">Descrição das atividades</h1>
