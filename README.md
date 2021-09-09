@@ -6,21 +6,21 @@ Coletar métricas periodicamente de um ou mais SGDBs (postgreSQL) remoto, plotar
 
 <h1 align="left">Requisitos Funcionais:</h1>
 
-● Registros periódicos de métricas (diariamente / hora);
-● Disponibilidade de dados coletados em tempo real;
-● Histórico de métricas;
-● Relatórios com as métricas e valores limites atingidos durante a operação;
-● Cadastros de dados de conexão dos SGBDs (acesso a estatísticas por tabela).
+- Registros periódicos de métricas (diariamente / hora);
+- Disponibilidade de dados coletados em tempo real;
+- Histórico de métricas;
+- Relatórios com as métricas e valores limites atingidos durante a operação;
+- Cadastros de dados de conexão dos SGBDs (acesso a estatísticas por tabela).
 
 <h1 align="left">Requisitos Não Funcionais:</h1>
 
-● Linguagem Java (requisito Fatec);
-● Banco de Dados Relacional (requisito Fatec);
-● Documentações.
+- Linguagem Java (requisito Fatec);
+- Banco de Dados Relacional (requisito Fatec);
+- Documentações.
 
 <h1 align="left">Tecnologias Desejáveis:</h1>
 
-● PostgreSQL.
+- PostgreSQL.
 
 
 <h1 align="left"Tecnologias utilizadas:</h1>
