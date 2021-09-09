@@ -14,3 +14,11 @@
 - Facilitar o desenvolvimento de planejamentos estratégicos eficientes.
 
 <h1 align="left">Descrição das atividades</h1>
+
+### Coleta de Dados Brutos
+
+- A coleta de dados é uma etapa fundamental na jornada de Análise de Dados, e com eles é possível avaliar a situação atual e fazer planos para o futuro. Porém, para que sejam considerados valiosos, precisam ser estruturados e analisados.
+
+### Tamanho do banco de Dados
+
+- O tamanho do banco de dados ajuda a compreender a quantidade de espaço que esta ocupando dentro do servidor, e a quantidade de informações dentro do mesmo possibilitando com antecedência aumentar o banco caso precise.
