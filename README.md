@@ -23,6 +23,6 @@
 
 - O tamanho do banco de dados ajuda a compreender a quantidade de espaço que esta ocupando dentro do servidor, e a quantidade de informações dentro do mesmo possibilitando com antecedência aumentar o banco caso precise.
 
-### tempo de duração na coleta
+### Tempo de duração na coleta
 
 - O tempo de coleta influencia muito no acesso de dados de forma ágil, e quanto mais rapida a coleta mais rapido os mesmos podem ser tratados permitindo a tomada de decisões mais eficiente.
