@@ -73,7 +73,7 @@ Coletar métricas periodicamente de um ou mais SGDBs (postgreSQL) remoto, plotar
 
 <h1 align="left">Road Map</h1>
 <p align="center">
-  <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/roadmap_Julius.jpg">  
+  <img src="https://github.com/THeeLooksDatabase/NectoProject/blob/main/docs/road%20map.PNG">  
   
 <h1 align="left">DEV TEAM</h1>
  
