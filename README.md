@@ -69,8 +69,12 @@ Coletar métricas periodicamente de um ou mais SGDBs (postgreSQL) remoto, plotar
 
 <h1 align="left">Backlog Total em cards</h1>
 <p align="center">
-  <img src="https://github.com/THeeLooksDatabase/NectoProject/blob/main/docs/backlog.png">
+  <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/1.png">
 
+<h1 align="left">Road Map</h1>
+<p align="center">
+  <img src="https://github.com/TheLooksDatabase/Julius/blob/main/3)%20Images/roadmap_Julius.jpg">  
+  
 <h1 align="left">DEV TEAM</h1>
  
 
