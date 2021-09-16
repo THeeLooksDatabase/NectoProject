@@ -5,7 +5,46 @@
 
 <h1 align="left">Desafio:</h1>
 
-Coletar métricas periodicamente de um ou mais SGDBs (postgreSQL) remoto, plotar gráficos e alertas de espaço em disco do SGDB, por database, e outras métricas de funcionamento do banco dados que influenciem em sua manutenção periódica, funcionamento e disponibilidade. (qtd de queries, tempo de queries, e uso de índices)
+Coletar métricas periodicamente de um ou mais SGDBs (postgreSQL) remoto, plotar gráficos e alertas de espaço em disco do SGDB, por database, e outras métricas de funcionamento do banco dados que influenciem em sua manutenção periódica, funcionamento e disponibilidade. (qtd de query, tempo de query, e uso de índices)
+
+<h1 align="left">User story</h1>
+  
+  <table>
+<thead>
+<tr>
+<th align="center">Quem</th>
+<th align="center">O que?</th>
+<th align="left">Para</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Cliente</td>
+<td align="center">Tamanho do banco de dados em disco</td>
+<td align="left">Saiba quantos de memória seu banco de dados ocupa!</td>
+</tr>
+<tr>
+<td align="center">Cliente</td>
+<td align="center">Coleta de dados</td>
+<td align="left">Coleta qualquer informação do seu banco de dados .</td>
+</tr>
+<tr>
+<td align="center">Cliente</td>
+<td align="center">Tempo de respostas das query</td>
+<td align="left">Saiba quanto tempo leva para retornar as query.</td>
+</tr>
+<tr>
+<td align="center">Cliente</td>
+<td align="center">Espaço utilizado pelos índices</td>
+<td align="left">Saiba o espaço utilzado pelos índices em seu banco de dados.</td>
+</tr>
+<tr>
+<td align="center">Cliente</td>
+<td align="center">Sistema de alerta</td>
+<td align="left">Algo de errado ocorrendo no banco de dados? fique sabendo pelos alertas.</td>
+</tr>
+</tbody>
+</table>
 
 <h1 align="left">Requisitos Funcionais:</h1>
 
