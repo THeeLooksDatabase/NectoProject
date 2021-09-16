@@ -63,7 +63,6 @@ Coletar métricas periodicamente de um ou mais SGDBs (postgreSQL) remoto, plotar
 <h1 align="left">Tecnologias Desejáveis:</h1>
 
 - PostgreSQL.
-- Java
 
 
 <h1 align="left"Tecnologias utilizadas:</h1>
