@@ -1,7 +1,7 @@
-# NectoProject
+#NectoProject
 
 <p align="center">
-  <img src="https://github.com/THeeLooksDatabase/NectoProject/blob/main/docs/necto.png">
+  <img src="https://github.com/THeeLooksDatabase/NectoProject/blob/main/docs/logofinal.PNG">
 
 <h1 align="left">Desafio:</h1>
 
