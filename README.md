@@ -2,6 +2,19 @@
 
 <p align="center">
   <img src="https://github.com/THeeLooksDatabase/NectoProject/blob/main/docs/logofinal.PNG">
+  
+<h1 align="left">DEV TEAM</h1>
+ 
+- SCRUM MASTER: 
+- Zaion Felippe Gomes Arruda - [LinkedIn](https://www.linkedin.com/in/zaion-gomes-b17657214/), [GitHub](https://github.com/ZaionKun)
+- PRODUCT OWNER:
+- Victor Araujo Paula Cavichioli (PO) - [LinkedIn](https://www.linkedin.com/in/victor-araujo-paula-cavichioli-9ab48418b/), [GitHub](https://github.com/VictorCavichioli)
+- DEVS:
+- Joice Elen Pereira Teixeira (DEV) - [LinkedIn](https://www.linkedin.com/in/joice-elen-2a6309207/), [GitHub](https://github.com/jojoka1)
+- Luiz Felipe Gonçalves Braga (DEV) - [LinkedIn](https://www.linkedin.com/in/luiz-felipe-gon%C3%A7alves-braga-613179200/), [GitHub](https://github.com/Obrag)
+- Renan Felipe Basiotte da Silva (DEV) - [LinkedIn](https://www.linkedin.com/in/renan-basiotte-b8570314a/), [GitHub](https://github.com/renanbst)
+- Pedro Teixeira (DEV) - [LinkedIn](https://www.linkedin.com/in/pedrolteixeira/), [GitHub](https://github.com/pedr0luis)  
+
 
 <h1 align="left">Desafio:</h1>
 
@@ -75,15 +88,7 @@ Coletar métricas periodicamente de um ou mais SGDBs (postgreSQL) remoto, plotar
 <p align="center">
   <img src="https://github.com/THeeLooksDatabase/NectoProject/blob/main/docs/road%20map.PNG">  
   
-<h1 align="left">DEV TEAM</h1>
- 
 
-- Zaion Felippe Gomes Arruda (Scrum Master) - [LinkedIn](https://www.linkedin.com/in/zaion-gomes-b17657214/), [GitHub](https://github.com/ZaionKun)
-- Victor Araujo Paula Cavichioli (PO) - [LinkedIn](https://www.linkedin.com/in/victor-araujo-paula-cavichioli-9ab48418b/), [GitHub](https://github.com/VictorCavichioli)
-- Joice Elen Pereira Teixeira (DEV) - [LinkedIn](https://www.linkedin.com/in/joice-elen-2a6309207/), [GitHub](https://github.com/jojoka1)
-- Luiz Felipe Gonçalves Braga (DEV) - [LinkedIn](https://www.linkedin.com/in/luiz-felipe-gon%C3%A7alves-braga-613179200/), [GitHub](https://github.com/Obrag)
-- Renan Felipe Basiotte da Silva (DEV) - [LinkedIn](https://www.linkedin.com/in/renan-basiotte-b8570314a/), [GitHub](https://github.com/renanbst)
-- Pedro Teixeira (DEV) - [LinkedIn](https://www.linkedin.com/in/pedrolteixeira/), [GitHub](https://github.com/pedr0luis)
 
 ##
 
