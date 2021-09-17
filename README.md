@@ -10,10 +10,10 @@
 - PRODUCT OWNER:
 - Victor Araujo Paula Cavichioli (PO) - [LinkedIn](https://www.linkedin.com/in/victor-araujo-paula-cavichioli-9ab48418b/), [GitHub](https://github.com/VictorCavichioli)
 - DEVS:
-- Joice Elen Pereira Teixeira (DEV) - [LinkedIn](https://www.linkedin.com/in/joice-elen-2a6309207/), [GitHub](https://github.com/jojoka1)
-- Luiz Felipe Gonçalves Braga (DEV) - [LinkedIn](https://www.linkedin.com/in/luiz-felipe-gon%C3%A7alves-braga-613179200/), [GitHub](https://github.com/Obrag)
-- Renan Felipe Basiotte da Silva (DEV) - [LinkedIn](https://www.linkedin.com/in/renan-basiotte-b8570314a/), [GitHub](https://github.com/renanbst)
-- Pedro Teixeira (DEV) - [LinkedIn](https://www.linkedin.com/in/pedrolteixeira/), [GitHub](https://github.com/pedr0luis)  
+- Joice Elen Pereira Teixeira - [LinkedIn](https://www.linkedin.com/in/joice-elen-2a6309207/), [GitHub](https://github.com/jojoka1)
+- Luiz Felipe Gonçalves Braga - [LinkedIn](https://www.linkedin.com/in/luiz-felipe-gon%C3%A7alves-braga-613179200/), [GitHub](https://github.com/Obrag)
+- Renan Felipe Basiotte da Silva - [LinkedIn](https://www.linkedin.com/in/renan-basiotte-b8570314a/), [GitHub](https://github.com/renanbst)
+- Pedro Teixeira - [LinkedIn](https://www.linkedin.com/in/pedrolteixeira/), [GitHub](https://github.com/pedr0luis)  
 
 
 <h1 align="left">Desafio:</h1>
