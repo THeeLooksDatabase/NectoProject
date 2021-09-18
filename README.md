@@ -107,6 +107,18 @@ Coletar métricas periodicamente de um ou mais SGDBs (postgreSQL) remoto, plotar
 
 <strong>GitHub</strong> - Utilizado para armazenzar e documentar nosso projeto
 ##
+<h2>Cronograma:</h2>
+Sprint 1 - 08/09/2021 a 19/09/2021
+##
+Sprint 2 - 20/09/2021 a 10/10/2021
+##
+Sprint 3 - 18/10/2021 a 07/11/2021
+##
+Sprint 4 - 08/11/2021 a 28/11/2021
+##
+Apresentação Final - 29/11 a 05/12
+##
+Feira de Soluções - 16/12/2021 às 19horas
 
 ### Acompanhamento
 Através do [Trello](https://trello.com/b/3aAilzlH/api)
