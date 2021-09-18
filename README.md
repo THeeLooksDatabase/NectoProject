@@ -89,6 +89,23 @@ Coletar métricas periodicamente de um ou mais SGDBs (postgreSQL) remoto, plotar
 <p align="center">
   <img src="https://github.com/THeeLooksDatabase/NectoProject/blob/main/docs/tecnologias.jpeg">
 
+<strong>Word</strong>  - Para documentar arquivos e registrar entrega de resultados da equipe
+
+<strong>Excel</strong>  - Utilzado para criação do gráfico burndown 
+
+<strong>Microsoft Teams</strong>  - Para entrar em reunião com os professores para nos auxiliar no andamento do projeto
+
+<strong>PostegreSQl</strong>  - Utilzado para armazenar os dados e coletas de métricas
+
+<strong>Intelij</strong>  - IDEA para desenvovimento JAVA
+
+<strong>Eclipse</strong>  - IDEA para desenvovimento JAVA
+
+<strong>whatsapp</strong>  - Troca de arquivos, marcar reuniões, bate papo.
+
+<strong>Google Meet</strong>  - Reuniões do grupo
+
+<strong>GitHub</strong> - Utilizado para armazenzar e documentar nosso projeto
 ##
 
 ### Acompanhamento
