@@ -1,28 +1,108 @@
-# NectoProject
+#NectoProject
 
-<p align="left">
-  <img src="https://github.com/THeeLooksDatabase/NectoProject/blob/main/docs/sprint1.png" />
-</p>
+<p align="center">
+  <img src="https://github.com/THeeLooksDatabase/NectoProject/blob/main/docs/logofinal.PNG">
+  
+<h1 align="left">DEV TEAM</h1>
+ 
+- SCRUM MASTER: 
+- Zaion Felippe Gomes Arruda - [LinkedIn](https://www.linkedin.com/in/zaion-gomes-b17657214/), [GitHub](https://github.com/ZaionKun)
+- PRODUCT OWNER:
+- Victor Araujo Paula Cavichioli - [LinkedIn](https://www.linkedin.com/in/victor-araujo-paula-cavichioli-9ab48418b/), [GitHub](https://github.com/VictorCavichioli)
+- DEVS:
+- Joice Elen Pereira Teixeira - [LinkedIn](https://www.linkedin.com/in/joice-elen-2a6309207/), [GitHub](https://github.com/jojoka1)
+- Luiz Felipe Gonçalves Braga - [LinkedIn](https://www.linkedin.com/in/luiz-felipe-gon%C3%A7alves-braga-613179200/), [GitHub](https://github.com/Obrag)
+- Renan Felipe Basiotte da Silva - [LinkedIn](https://www.linkedin.com/in/renan-basiotte-b8570314a/), [GitHub](https://github.com/renanbst)
+- Pedro Teixeira - [LinkedIn](https://www.linkedin.com/in/pedrolteixeira/), [GitHub](https://github.com/pedr0luis)  
 
-<h1 align="left">Sprint 1</h1>
 
-  Nessa sprint  apresentaremos  a coleta de dados brutos  garantindo  informações  precisas e consist.  O tamanho do banco de dados  usando com como critério a   quantidade de usuuarios e  itens, e  o tempo de resposta das  informações verificando a  motilidade de coleta.
+<h1 align="left">Desafio:</h1>
 
-<h1 align="left">Valor da Sprint</h1>
+Coletar métricas periodicamente de um ou mais SGDBs (postgreSQL) remoto, plotar gráficos e alertas de espaço em disco do SGDB, por database, e outras métricas de funcionamento do banco dados que influenciem em sua manutenção periódica, funcionamento e disponibilidade. (qtd de query, tempo de query, e uso de índices)
 
-- Permitir uma análise válida e realista.
-- Facilitar o desenvolvimento de planejamentos estratégicos eficientes.
+<h1 align="left">User story</h1>
+  
+  <table>
+<thead>
+<tr>
+<th align="center">Quem</th>
+<th align="center">O que?</th>
+<th align="left">Para</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Cliente</td>
+<td align="center">Tamanho do banco de dados em disco</td>
+<td align="left">Saiba quantos de memória seu banco de dados ocupa!</td>
+</tr>
+<tr>
+<td align="center">Cliente</td>
+<td align="center">Coleta de dados</td>
+<td align="left">Coleta qualquer informação do seu banco de dados .</td>
+</tr>
+<tr>
+<td align="center">Cliente</td>
+<td align="center">Tempo de respostas das query</td>
+<td align="left">Saiba quanto tempo leva para retornar as query.</td>
+</tr>
+<tr>
+<td align="center">Cliente</td>
+<td align="center">Espaço utilizado pelos índices</td>
+<td align="left">Saiba o espaço utilzado pelos índices em seu banco de dados.</td>
+</tr>
+<tr>
+<td align="center">Cliente</td>
+<td align="center">Sistema de alerta</td>
+<td align="left">Algo de errado ocorrendo no banco de dados? fique sabendo pelos alertas.</td>
+</tr>
+</tbody>
+</table>
 
-<h1 align="left">Descrição das atividades</h1>
+<h1 align="left">Requisitos Funcionais:</h1>
 
-### Coleta de Dados Brutos
+- Registros periódicos de métricas (diariamente / hora);
+- Disponibilidade de dados coletados em tempo real;
+- Histórico de métricas;
+- Relatórios com as métricas e valores limites atingidos durante a operação;
+- Cadastros de dados de conexão dos SGBDs (acesso a estatísticas por tabela).
 
-- A coleta de dados é uma etapa fundamental na jornada de Análise de Dados, e com eles é possível avaliar a situação atual e fazer planos para o futuro. Porém, para que sejam considerados valiosos, precisam ser estruturados e analisados.
+<h1 align="left">Requisitos Não Funcionais:</h1>
 
-### Tamanho do banco de Dados
+- Linguagem Java (requisito Fatec);
+- Banco de Dados Relacional (requisito Fatec);
+- Documentações.
 
-- O tamanho do banco de dados ajuda a compreender a quantidade de espaço que esta ocupando dentro do servidor, e a quantidade de informações dentro do mesmo possibilitando com antecedência aumentar o banco caso precise.
+<h1 align="left">Tecnologias Desejáveis:</h1>
 
-### Tempo de duração na coleta
+- PostgreSQL.
 
-- O tempo de coleta influencia muito no acesso de dados de forma ágil, e quanto mais rapida a coleta mais rapido os mesmos podem ser tratados permitindo a tomada de decisões mais eficiente.
+
+<h1 align="left"Tecnologias utilizadas:</h1>
+
+<h1 align="left">Backlog Total em cards</h1>
+<p align="center">
+  <img src="https://github.com/THeeLooksDatabase/NectoProject/blob/main/docs/backlogeral1.PNG">
+
+<h1 align="left">Road Map</h1>
+<p align="center">
+  <img src="https://github.com/THeeLooksDatabase/NectoProject/blob/main/docs/road%20map.PNG">  
+  
+
+
+##
+
+### Acompanhamento
+Através do [Trello](https://trello.com/b/3aAilzlH/api)
+
+##
+
+### Clonar o repositório do GitHub:
+1. No GitBash ou Power Shell execute:
+```
+git init
+```
+2. Clone o repositório
+```
+git clone https://github.com/THeeLooksDatabase/NectoProject.git
+```
