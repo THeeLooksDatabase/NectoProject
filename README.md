@@ -75,11 +75,6 @@ Coletar métricas periodicamente de um ou mais SGDBs (postgreSQL) remoto, plotar
 - Banco de Dados Relacional (requisito Fatec);
 - Documentações.
 
-<h1 align="left">Tecnologias Desejáveis:</h1>
-
-- PostgreSQL.
-
-
 <h1 align="left"Tecnologias utilizadas:</h1>
 
 <h1 align="left">Backlog Total em cards</h1>
@@ -90,7 +85,9 @@ Coletar métricas periodicamente de um ou mais SGDBs (postgreSQL) remoto, plotar
 <p align="center">
   <img src="https://github.com/THeeLooksDatabase/NectoProject/blob/main/docs/road%20map.PNG">  
   
-
+<h1 align="left">Tecnologias:</h1>
+<p align="center">
+  <img src="https://github.com/THeeLooksDatabase/NectoProject/blob/main/docs/tecnologias.jpeg">
 
 ##
 
