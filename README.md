@@ -5,11 +5,13 @@
   
 <h1 align="left">DEV TEAM</h1>
  
-- SCRUM MASTER: 
+<strong>SCRUM MASTER</strong>: 
 - Zaion Felippe Gomes Arruda - [LinkedIn](https://www.linkedin.com/in/zaion-gomes-b17657214/), [GitHub](https://github.com/ZaionKun)
-- PRODUCT OWNER:
+###
+<strong>PRODUCT OWNER:</strong>
 - Victor Araujo Paula Cavichioli - [LinkedIn](https://www.linkedin.com/in/victor-araujo-paula-cavichioli-9ab48418b/), [GitHub](https://github.com/VictorCavichioli)
-- DEVS:
+###
+<strong>DEVS:</strong>
 - Joice Elen Pereira Teixeira - [LinkedIn](https://www.linkedin.com/in/joice-elen-2a6309207/), [GitHub](https://github.com/jojoka1)
 - Luiz Felipe Gonçalves Braga - [LinkedIn](https://www.linkedin.com/in/luiz-felipe-gon%C3%A7alves-braga-613179200/), [GitHub](https://github.com/Obrag)
 - Renan Felipe Basiotte da Silva - [LinkedIn](https://www.linkedin.com/in/renan-basiotte-b8570314a/), [GitHub](https://github.com/renanbst)
