@@ -19,4 +19,4 @@ Nessa Sprint apresentaremos os códigos das funções do tamanho do banco em dis
 
 ### Quanto tempo dura o banco de dados
 
-- Tempo utilizado pelo usuário
+- Tempo utilizado pelo usuário.
