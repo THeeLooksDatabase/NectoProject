@@ -24,3 +24,9 @@ Nessa Sprint apresentaremos os códigos das funções do tamanho do banco em dis
 ### Vídeo de apresentação da Sprint:
 
 - https://www.youtube.com/watch?v=vQJkEVuewO0&ab_channel=VictorAraujo
+
+
+### Gráfico de Burndown da Sprint:
+
+<p align="left">
+  <img src="https://github.com/THeeLooksDatabase/NectoProject/blob/main/docs/Grafico.jpeg">
