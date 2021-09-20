@@ -20,3 +20,7 @@ Nessa Sprint apresentaremos os códigos das funções do tamanho do banco em dis
 ### Quanto tempo dura o banco de dados
 
 - Tempo utilizado pelo usuário.
+
+### Vídeo de apresentação da Sprint:
+
+- https://www.youtube.com/watch?v=vQJkEVuewO0&ab_channel=VictorAraujo
