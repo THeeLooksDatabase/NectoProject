@@ -24,7 +24,7 @@ public class Main {
         }catch (SQLException e){
             e.printStackTrace();
 
-        } /* SELECT * FROM pg_stat_activity FUNCIONOU CARALHO
+        } /* SELECT * FROM pg_stat_activity
             SELECT datid FROM pg_stat_activity
 
         */
